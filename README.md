@@ -34,3 +34,7 @@ An admin can add a food item.Upon adding if he think that some things need to be
 ### Delete
 ![image](https://github.com/Emon-Khan/FoodDelivery/assets/42010220/123169dc-9ee7-492c-8ba5-9d8fe2a9fd45)
 
+## Architechures
+As I have also worked with spring boot and in spring boot it follows the mvc Architechure where as in django it follows mvt Architechure.
+![1 vrAGwD80iBmtWWL0xiB1qQ](https://github.com/Emon-Khan/FoodDelivery/assets/42010220/d578b138-1540-4d35-bb75-9dcd909800b2)
+
